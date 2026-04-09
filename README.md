@@ -149,7 +149,7 @@
 ## 安装
 
 ```bash
-npx skills add fangyuan-perspective
+npx skills add islanddddddd/fangyuan-skill
 ```
 
 然后在 Claude Code 里：
