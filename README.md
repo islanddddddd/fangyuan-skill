@@ -377,8 +377,15 @@ fangyuan-skill/
 
 之前的旧版本是我分割出来200章蒸馏出来的版本，那个味太冲有点不像人了，这个最新版只喂了作者自述和第一章，反而效果不错更符合原著，有兴趣的可以回退到35bb9c4bd50114b507a1f4c68c59777ea722e782试试。
 
+## 更多.skill
 
+我已蒸馏的其他人物：
+
+| 人物 | 领域 | 安装 |
+|------|------|------|
+| [祖国人.skill](https://github.com/islanddddddd/homelander-skill) | 自恋/完美/虚假/心理变态/控制欲 | `npx skills add islanddddddd/homelander-skill` |
 ---
+
 
 ## 许可证
 
