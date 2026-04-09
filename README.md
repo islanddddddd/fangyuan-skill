@@ -329,7 +329,7 @@ npx skills add islanddddddd/fangyuan-skill
 
 ## 调研来源
 
-6个调研文件，全部在 [`references/research/`](references/research/) 目录：
+1个调研文件，全部在 [`references/research/`](references/research/) 目录：
 
 | 文件 | 内容 |
 |------|------|
@@ -365,25 +365,18 @@ fangyuan-skill/
 ├── README.md
 ├── SKILL.md                              # 可直接安装使用
 ├── LICENSE
-├── old README.md                         # 旧版本README
 ├── references/
 │   └── research/                         # 调研文件
 │       └── 01-fangyuan-analysis.md
 └── examples/
     └── demo-conversation.md              # 实战对话记录
 ```
-
 ---
+## 数据
 
-## 更多.skill
 
-女娲已蒸馏的其他人物：
+之前的旧版本是我分割出来200章蒸馏出来的版本，那个味太冲有点不像人了，这个最新版只喂了作者自述和第一章，反而效果不错更符合原著，有兴趣的可以回退到35bb9c4bd50114b507a1f4c68c59777ea722e782试试。
 
-| 人物 | 领域 | 安装 |
-|------|------|------|
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业/阶层 | `npx skills add alchaincyf/zhangxuefeng-skill` |
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
 
 ---
 
