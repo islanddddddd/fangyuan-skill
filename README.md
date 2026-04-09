@@ -2,7 +2,7 @@
 
 # 古月方源.skill
 
-> *「弱肉强食，适者生存，本来就是这世间的本质。」*
+> *「落魄谷中寒风吹，春秋蝉鸣少年归。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
